@@ -1,0 +1,9 @@
+{
+  "name": "target_func_ptr",
+  "version": "0.1.0",
+  "repo": "hcnn/target_func_ptr",
+  "description": "typedef for target functions of an optimization problem",
+  "keywords": ["target function", "numerical opimization"],
+  "license": "MIT",
+  "src": ["target_func_ptr.h"]
+}
